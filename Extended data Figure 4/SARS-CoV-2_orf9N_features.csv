@@ -1,0 +1,10 @@
+feature,from,to,row,,
+N-term,1,45,1,#5b7e91,persons grey
+Basic1,9,42,2,#7ebea5,porcelain green
+NTD,46,181,3,#ec6d51,redlead
+Basic2,88,102,2,#7ebea5,porcelain green
+linker,182,248,1,#5b7e91,persons grey
+CTD,249,365,3,#ec6d51,redlead
+Basic3,248,278,2,#7ebea5,porcelain green
+C-tail,366,419,1,#5b7e91,persons grey
+Basic4,369,389,2,#7ebea5,porcelain green
