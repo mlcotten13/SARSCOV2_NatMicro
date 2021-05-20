@@ -1,1 +1,1 @@
-The code to generate Figure 3 are available here.
+The code and data to generate Figure 3 are available here.
