@@ -1,0 +1,14 @@
+feature,from,to,row,color,colorname
+NTD super,5,24,2,#e45e32,red_cray
+Asn_cluster_L-SiGN,121,148,4,#525252,dkgrey
+Asn_cluster_2,188,211,3,#525252,dkgrey
+Receptor_binding,331,528,2,#e45e32,red_cray
+ACE2_binding,437,508,3,#cb181d,darkred
+RGD_motif,393,395,4,#cb181d,darkred
+Furin_cleavage_site,682,688,3,#EA573D,an orange from mp coordinates expanded for visibility
+NTD,14,306,1,#2a83a2,(flower-long green onion)
+TM,1200,1225,2,#abb4ba,lighter slate_grey
+S1,14,686,5,#7ebeab,(blue-bamboo-color)
+S2,687,1273,4,#abb4ba,lighter slate_grey
+HR1,910,985,1,#7ebeab,(blue-bamboo-color)
+HR2,1163,1211,1,#7ebeab,(blue-bamboo-color)
