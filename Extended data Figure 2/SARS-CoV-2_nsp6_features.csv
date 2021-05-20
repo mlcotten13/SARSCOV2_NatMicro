@@ -1,0 +1,17 @@
+feature,from,to,row,color,colorname
+Intra_N,1,12,1,#abb4ba,lighter slate_grey
+membrane1,12,36,2,#7ebeab,(blue-bamboo-color)
+Extra_loop_1,37,41,3,#EA573D,an orange from mp coordinates expanded for visibility
+membrane2,42,60,4,#7ebeab,(blue-bamboo-color)
+Intra_loop_1,61,66,1,#abb4ba,lighter slate_grey
+membrane3,67,91,2,#7ebeab,(blue-bamboo-color)
+B_del 106-108,106,108,5,#38a1db,dayflower
+Extra_loop_Big,92,114,3,#EA573D,an orange from mp coordinates expanded for visibility
+membrane4,114,127,4,#7ebeab,(blue-bamboo-color)
+Intra_loop_2,128,139,1,#abb4ba,lighter slate_grey
+membrane5,140,154,2,#7ebeab,(blue-bamboo-color)
+Extra_loop_2,155,160,3,#EA573D,an orange from mp coordinates expanded for visibility
+membrane6,162,185,4,#7ebeab,(blue-bamboo-color)
+Intra_loop_3,187,209,1,#abb4ba,lighter slate_grey
+membrane6,210,231,2,#7ebeab,(blue-bamboo-color)
+Extra_C,232,290,3,#EA573D,an orange from mp coordinates expanded for visibility
