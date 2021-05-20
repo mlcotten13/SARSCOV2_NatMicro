@@ -1,0 +1,11 @@
+feature,from,to,row,,
+Beta1,20,25,2,#5b7e91,persons grey
+Beta2,30,32,2,#5b7e91,persons grey
+Beta3,42,50,2,#5b7e91,persons grey
+Beta4,57,59,2,#5b7e91,persons grey
+ORF8_specific,46,83,3,#7ebea5,porcelain green
+CLP_turn,83,85,1,#ec6d51,redlead
+Dimer interface2,93,95,1,#ec6d51,redlead
+Beta5,86,89,2,#5b7e91,persons grey
+Beta6,96,103,2,#5b7e91,persons grey
+Beta7,111,122,2,#5b7e91,persons grey
